@@ -1,3 +1,0 @@
-File Permision pada Linux
-
-Gunakan perintah dibawah untuk remove user jack dari sysadmin group: gpasswd -d jack sysadmin
